@@ -1,0 +1,15 @@
+2025-07-02 17:45:49 | level_3         | A*                   | SOLVED | Moves:  22 | Nodes:    1,343 | Time:   0.06s | Memory:   1.14MB
+2025-07-02 17:45:49 | level_7         | A*                   | SOLVED | Moves:  61 | Nodes:    4,178 | Time:   0.15s | Memory:   3.43MB
+2025-07-02 17:45:50 | level_12         | A*                   | SOLVED | Moves:  93 | Nodes:   19,352 | Time:   0.86s | Memory:  18.21MB
+2025-07-02 18:44:51 | level_7         | A*                   | SOLVED | Moves:  61 | Nodes:    4,178 | Time:   0.24s | Memory:   3.43MB
+2025-07-02 18:44:52 | level_12         | A*                   | SOLVED | Moves:  93 | Nodes:   19,352 | Time:   1.20s | Memory:  18.21MB
+2025-07-02 18:44:56 | level_3         | A*                   | SOLVED | Moves:  22 | Nodes:    1,343 | Time:   0.20s | Memory:   1.14MB
+2025-07-02 18:50:50 | level_7         | A*                   | SOLVED | Moves:  61 | Nodes:    4,178 | Time:   0.25s | Memory:   3.43MB
+2025-07-02 18:50:52 | level_9        | A*                   | SOLVED | Moves:  80 | Nodes:    7,604 | Time:   0.62s | Memory:   7.11MB
+2025-07-02 18:50:52 | level_12         | A*                   | SOLVED | Moves:  93 | Nodes:   19,352 | Time:   1.19s | Memory:  18.21MB
+2025-07-02 18:50:53 | level_15        | A*                   | SOLVED | Moves: 112 | Nodes:   55,786 | Time:   4.17s | Memory:  59.91MB
+2025-07-02 18:50:54 | level_3         | A*                   | SOLVED | Moves:  22 | Nodes:    1,343 | Time:   0.20s | Memory:   1.14MB
+2025-07-02 18:50:56 | level_17        | A*                   | SOLVED | Moves:  44 | Nodes:   26,723 | Time:   2.44s | Memory:  25.73MB
+2025-07-06 12:24:37 | level_20        | A*                   | SOLVED | Moves:  34 | Nodes:   89,613 | Time:   9.34s | Memory: 121.99MB
+2025-07-06 12:37:45 | level_14        | A*                   | SOLVED | Moves:  67 | Nodes:   21,501 | Time:   1.00s | Memory:  22.54MB
+2025-07-06 12:38:03 | level_23        | A*                   | SOLVED | Moves:  56 | Nodes:  350,329 | Time:  22.85s | Memory: 349.13MB

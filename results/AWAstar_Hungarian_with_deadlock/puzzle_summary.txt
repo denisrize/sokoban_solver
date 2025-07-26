@@ -1,0 +1,52 @@
+2025-07-03 20:19:32 | level_3         | AWA*_iter_1_w4.00    | SOLVED | Moves:  26 | Nodes:      150 | Time:   0.02s | Memory:   0.13MB
+2025-07-03 20:19:32 | level_3         | AWA*_iter_2_w2.40    | FAILED | Nodes:       42 | Time:   0.00s
+2025-07-03 20:19:32 | level_3         | AWA*_iter_3_w1.44    | SOLVED | Moves:  22 | Nodes:      306 | Time:   0.04s | Memory:   0.26MB
+2025-07-03 20:19:32 | level_3         | AWA*_total           | SOLVED | Moves:  22 | Nodes:      498 | Time:   0.06s | Memory:   0.26MB
+2025-07-03 20:19:32 | level_7         | AWA*_iter_1_w4.00    | SOLVED | Moves:  67 | Nodes:    1,609 | Time:   0.16s | Memory:   1.47MB
+2025-07-03 20:19:32 | level_7         | AWA*_iter_2_w2.40    | SOLVED | Moves:  61 | Nodes:    1,679 | Time:   0.16s | Memory:   1.50MB
+2025-07-03 20:19:32 | level_7         | AWA*_iter_3_w1.44    | FAILED | Nodes:    1,677 | Time:   0.15s
+2025-07-03 20:19:32 | level_7         | AWA*_total           | SOLVED | Moves:  61 | Nodes:    4,965 | Time:   0.46s | Memory:   1.50MB
+2025-07-03 20:19:33 | level_12         | AWA*_iter_1_w4.00    | SOLVED | Moves:  97 | Nodes:    3,263 | Time:   0.38s | Memory:   3.23MB
+2025-07-03 20:19:33 | level_12         | AWA*_iter_2_w2.40    | FAILED | Nodes:    3,899 | Time:   0.43s
+2025-07-03 20:19:33 | level_12         | AWA*_iter_3_w1.44    | SOLVED | Moves:  93 | Nodes:    4,169 | Time:   0.50s | Memory:   4.16MB
+2025-07-03 20:19:33 | level_12         | AWA*_total           | SOLVED | Moves:  93 | Nodes:   11,331 | Time:   1.32s | Memory:   4.16MB
+2025-07-03 20:22:15 | level_3         | AWA*_iter_1_w4.00    | SOLVED | Moves:  26 | Nodes:      150 | Time:   0.02s | Memory:   0.13MB
+2025-07-03 20:22:15 | level_3         | AWA*_iter_2_w2.40    | FAILED | Nodes:       42 | Time:   0.00s
+2025-07-03 20:22:15 | level_3         | AWA*_iter_3_w1.44    | SOLVED | Moves:  22 | Nodes:      306 | Time:   0.04s | Memory:   0.26MB
+2025-07-03 20:22:15 | level_3         | AWA*_total           | SOLVED | Moves:  22 | Nodes:      498 | Time:   0.06s | Memory:   0.26MB
+2025-07-03 20:22:15 | level_7         | AWA*_iter_1_w4.00    | SOLVED | Moves:  67 | Nodes:    1,609 | Time:   0.16s | Memory:   1.47MB
+2025-07-03 20:22:15 | level_7         | AWA*_iter_2_w2.40    | SOLVED | Moves:  61 | Nodes:    1,679 | Time:   0.15s | Memory:   1.50MB
+2025-07-03 20:22:15 | level_7         | AWA*_iter_3_w1.44    | FAILED | Nodes:    1,677 | Time:   0.15s
+2025-07-03 20:22:15 | level_7         | AWA*_total           | SOLVED | Moves:  61 | Nodes:    4,965 | Time:   0.46s | Memory:   1.50MB
+2025-07-03 20:22:16 | level_12         | AWA*_iter_1_w4.00    | SOLVED | Moves:  97 | Nodes:    3,263 | Time:   0.37s | Memory:   3.23MB
+2025-07-03 20:22:16 | level_12         | AWA*_iter_2_w2.40    | FAILED | Nodes:    3,899 | Time:   0.43s
+2025-07-03 20:22:16 | level_12         | AWA*_iter_3_w1.44    | SOLVED | Moves:  93 | Nodes:    4,169 | Time:   0.50s | Memory:   4.16MB
+2025-07-03 20:22:16 | level_12         | AWA*_total           | SOLVED | Moves:  93 | Nodes:   11,331 | Time:   1.30s | Memory:   4.16MB
+2025-07-03 20:22:16 | level_9        | AWA*_iter_1_w4.00    | SOLVED | Moves:  90 | Nodes:    4,232 | Time:   0.42s | Memory:   3.99MB
+2025-07-03 20:22:16 | level_9        | AWA*_iter_2_w2.40    | SOLVED | Moves:  84 | Nodes:    4,980 | Time:   0.47s | Memory:   4.99MB
+2025-07-03 20:22:16 | level_9        | AWA*_iter_3_w1.44    | SOLVED | Moves:  80 | Nodes:    4,982 | Time:   0.54s | Memory:   4.92MB
+2025-07-03 20:22:16 | level_9        | AWA*_total           | SOLVED | Moves:  80 | Nodes:   14,194 | Time:   1.42s | Memory:   4.99MB
+2025-07-03 20:22:16 | level_17        | AWA*_iter_1_w4.00    | SOLVED | Moves:  44 | Nodes:    3,120 | Time:   0.48s | Memory:   2.81MB
+2025-07-03 20:22:16 | level_17        | AWA*_iter_2_w2.40    | FAILED | Nodes:    2,936 | Time:   0.44s
+2025-07-03 20:22:16 | level_17        | AWA*_iter_3_w1.44    | FAILED | Nodes:    4,186 | Time:   0.68s
+2025-07-03 20:22:16 | level_17        | AWA*_total           | SOLVED | Moves:  44 | Nodes:   10,242 | Time:   1.59s | Memory:   3.56MB
+2025-07-03 20:22:17 | level_15        | AWA*_iter_1_w4.00    | SOLVED | Moves: 116 | Nodes:    5,664 | Time:   0.69s | Memory:   6.38MB
+2025-07-03 20:22:17 | level_15        | AWA*_iter_2_w2.40    | FAILED | Nodes:    5,803 | Time:   0.73s
+2025-07-03 20:22:17 | level_15        | AWA*_iter_3_w1.44    | SOLVED | Moves: 112 | Nodes:    6,015 | Time:   0.71s | Memory:   6.60MB
+2025-07-03 20:22:17 | level_15        | AWA*_total           | SOLVED | Moves: 112 | Nodes:   17,482 | Time:   2.13s | Memory:   6.60MB
+2025-07-03 20:23:00 | level_26        | AWA*_iter_1_w4.00    | SOLVED | Moves:  56 | Nodes:    5,027 | Time:   0.96s | Memory:   6.87MB
+2025-07-03 20:23:00 | level_26        | AWA*_iter_2_w2.40    | SOLVED | Moves:  49 | Nodes:   27,923 | Time:   6.32s | Memory:  36.58MB
+2025-07-03 20:23:00 | level_26        | AWA*_iter_3_w1.44    | SOLVED | Moves:  47 | Nodes:  171,517 | Time:  41.30s | Memory: 216.09MB
+2025-07-03 20:23:00 | level_26        | AWA*_total           | SOLVED | Moves:  47 | Nodes:  204,467 | Time:  48.58s | Memory: 216.09MB
+2025-07-06 12:23:57 | level_20        | AWA*_iter_1_w4.00    | SOLVED | Moves:  38 | Nodes:    1,151 | Time:   0.30s | Memory:   1.50MB
+2025-07-06 12:23:57 | level_20        | AWA*_iter_2_w2.40    | SOLVED | Moves:  34 | Nodes:    1,771 | Time:   0.46s | Memory:   2.28MB
+2025-07-06 12:23:57 | level_20        | AWA*_iter_3_w1.44    | FAILED | Nodes:    3,418 | Time:   0.92s
+2025-07-06 12:23:57 | level_20        | AWA*_total           | SOLVED | Moves:  34 | Nodes:    6,340 | Time:   1.68s | Memory:   4.04MB
+2025-07-06 12:43:22 | level_23        | AWA*_iter_1_w4.00    | SOLVED | Moves:  64 | Nodes:    5,670 | Time:   1.39s | Memory:   5.76MB
+2025-07-06 12:43:22 | level_23        | AWA*_iter_2_w2.40    | SOLVED | Moves:  58 | Nodes:   13,757 | Time:   3.57s | Memory:  13.12MB
+2025-07-06 12:43:22 | level_23        | AWA*_iter_3_w1.44    | SOLVED | Moves:  56 | Nodes:   22,111 | Time:   5.80s | Memory:  22.51MB
+2025-07-06 12:43:22 | level_23        | AWA*_total           | SOLVED | Moves:  56 | Nodes:   41,538 | Time:  10.76s | Memory:  22.51MB
+2025-07-06 12:43:46 | level_14        | AWA*_iter_1_w4.00    | SOLVED | Moves:  67 | Nodes:    2,576 | Time:   0.67s | Memory:   2.41MB
+2025-07-06 12:43:46 | level_14        | AWA*_iter_2_w2.40    | FAILED | Nodes:    2,851 | Time:   0.72s
+2025-07-06 12:43:46 | level_14        | AWA*_iter_3_w1.44    | FAILED | Nodes:    3,546 | Time:   0.92s
+2025-07-06 12:43:46 | level_14        | AWA*_total           | SOLVED | Moves:  67 | Nodes:    8,973 | Time:   2.31s | Memory:   3.46MB

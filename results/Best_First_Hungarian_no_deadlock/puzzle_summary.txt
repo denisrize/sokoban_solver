@@ -1,0 +1,9 @@
+2025-07-02 18:51:26 | level_3         | Best-First           | SOLVED | Moves:  22 | Nodes:       47 | Time:   0.00s | Memory:   0.06MB
+2025-07-02 18:51:26 | level_7         | Best-First           | SOLVED | Moves:  75 | Nodes:    1,069 | Time:   0.06s | Memory:   0.86MB
+2025-07-02 18:51:26 | level_9        | Best-First           | SOLVED | Moves: 106 | Nodes:    1,967 | Time:   0.11s | Memory:   1.93MB
+2025-07-02 18:51:26 | level_17        | Best-First           | SOLVED | Moves:  80 | Nodes:    1,596 | Time:   0.13s | Memory:   1.94MB
+2025-07-02 18:51:26 | level_12         | Best-First           | SOLVED | Moves: 133 | Nodes:    9,667 | Time:   0.61s | Memory:   9.19MB
+2025-07-02 18:51:28 | level_15        | Best-First           | SOLVED | Moves: 117 | Nodes:   29,187 | Time:   2.33s | Memory:  36.32MB
+2025-07-06 12:24:13 | level_20        | Best-First           | SOLVED | Moves:  38 | Nodes:  132,114 | Time:  23.46s | Memory: 185.41MB
+2025-07-06 12:36:34 | level_23        | Best-First           | SOLVED | Moves:  78 | Nodes:   27,192 | Time:   2.24s | Memory:  30.01MB
+2025-07-06 12:43:48 | level_14        | Best-First           | SOLVED | Moves:  68 | Nodes:   17,572 | Time:   2.66s | Memory:  16.81MB
