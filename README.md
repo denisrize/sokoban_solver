@@ -4,6 +4,8 @@
   <img width="200" height="200" alt="sok_example_easy" src="https://github.com/user-attachments/assets/a62caa0e-e665-47d8-8b23-2aae6307eba8" />
 </div>
 
+**Authors:** [Denis Rize](https://github.com/denisrize) & [Yuval Schwartz](https://github.com/YuvalSchwartz)
+
 ## Overview
 
 This project implements and compares multiple heuristic search algorithms to solve Sokoban puzzles optimally. Sokoban is a classic puzzle game where a player pushes boxes in a warehouse to designated goal positions, providing an excellent testbed for analyzing the effectiveness of different admissible heuristics and search strategies in artificial intelligence.
